@@ -12,10 +12,6 @@ Musical training, especially in the form of singing, activates overlapping neura
 
 This survey is part of the "Lyrical Literacy" project at Humanitarians.ai, which promotes daily engagement with music through songbooks and SoundCloud songs. The project aims to harness the cognitive and social benefits of singing to foster language skills and overall brain development in diverse populations.
 
-# Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Research
-
-Neuroscientific studies have provided a wealth of information about how and why singing is beneficial to the brain. Here's a detailed look into the scientific mechanisms:
-
 ### Neural Mechanisms Underlying the Impact of Singing on Language and Cognitive Skills
 
 #### Interconnection of Neural Networks for Music and Language
@@ -38,9 +34,8 @@ Musical training also enables phonological awareness, a critical component of la
 
 In summary, the neuroscientific evidence supports the profound impact of singing on brain function. Singing engages a wide range of brain areas, enhancing cognitive functions and language skills. The interconnected neural networks for music and language, combined with the extensive brain activation involved in singing, make it a powerful tool for cognitive development and rehabilitation. By enhancing auditory processing, memory, neural encoding of speech, beat synchronization, and phonological awareness, singing contributes significantly to improving language skills and overall brain health.
 
-## Survey of Research on the Neural and Cognitive Benefits of Musical Training and Singing
+## Research on the Neural and Cognitive Benefits of Musical Training and Singing
 
-### Introduction
 The study of musical training and singing has gained significant interest in the scientific community due to its potential benefits on neural encoding, cognitive functions, and overall well-being. This survey examines recent research exploring the neurobiological, cognitive, and therapeutic effects of musical engagement, with a particular focus on singing. The studies reviewed provide insights into how musical activities influence brain function and structure, enhance cognitive abilities, and offer therapeutic benefits, especially for individuals with neurological disorders.
 
 ### Neural Encoding and Musical Training
@@ -66,7 +61,7 @@ Fishburn (2015) underscores that singing is a valuable physical and psychologica
 
 The reviewed studies collectively highlight the multifaceted benefits of musical training and singing on brain function, cognitive abilities, and overall well-being. These benefits are evident across different age groups and neurological conditions, underscoring the importance of musical engagement as a therapeutic and cognitive enhancement tool. Further research is needed to generalize these findings to broader populations and explore the underlying mechanisms in greater detail.
 
-## Can Nonlinguistic Musical Training Change the Way the Brain Processes Speech? A Survey
+## Can Nonlinguistic Musical Training Change the Way the Brain Processes Speech?
 
 Musical training, particularly nonlinguistic, has been suggested to influence how the brain processes speech through mechanisms of neural plasticity and shared cognitive pathways. The expanded OPERA hypothesis (Patel, 2014) posits that musical training can enhance speech processing by leveraging shared neural resources between music and speech. This paper examines various studies to explore the impact of musical training on speech processing and auditory perception.
 
@@ -97,7 +92,7 @@ Musical training may also counteract age-related declines in auditory processing
 The accumulated evidence strongly supports the notion that nonlinguistic musical training can positively influence the way the brain processes speech. The benefits of musical training extend beyond improved auditory processing to include enhanced cognitive functions and better speech perception in noise. These findings have important implications for educational and therapeutic interventions, particularly for individuals with hearing loss, speech perception difficulties, and those in noisy environments. Future research should continue to explore the mechanisms underlying these benefits and how they can be harnessed to improve auditory and cognitive outcomes across different populations. 
 
 
-## Can Nonlinguistic Musical Training Change the Way the Brain Processes Speech? A Survey
+## Can Nonlinguistic Musical Training Change the Way the Brain Processes Speech?
 
 ### Introduction
 
@@ -129,7 +124,7 @@ Musical training may also counteract age-related declines in auditory processing
 
 The accumulated evidence strongly supports the notion that nonlinguistic musical training can positively influence the way the brain processes speech. The benefits of musical training extend beyond improved auditory processing to include enhanced cognitive functions and better speech perception in noise. These findings have important implications for educational and therapeutic interventions, particularly for individuals with hearing loss, speech perception difficulties, and those in noisy environments. Future research should continue to explore the mechanisms underlying these benefits and how they can be harnessed to improve auditory and cognitive outcomes across different populations. 
 
-## Survey of Research on the Cognitive and Neural Benefits of Musical Training
+## Research on the Cognitive and Neural Benefits of Musical Training
 
 ### Introduction
 The relationship between musical training and cognitive development has been a subject of growing interest within the neuroscientific and educational research communities. This section surveys key studies that explore how musical training impacts various cognitive functions, neural plasticity, and linguistic abilities. The findings across these studies suggest that musical training not only enhances specific auditory and cognitive skills but also facilitates broader neural and developmental benefits.
